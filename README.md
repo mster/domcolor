@@ -24,7 +24,7 @@ const fromBuffer = await domcolor(imageBuffer)
 
 ## API
 
-### `domcolor (args)`
+### `domcolor (img)`
 
 - `img`: `<string>` | `<Buffer>` (Required)
 
@@ -47,6 +47,3 @@ const fromBuffer = await domcolor(imageBuffer)
 
 ![gopher-color](https://user-images.githubusercontent.com/15038724/87261182-1cfad700-c46a-11ea-9902-0ffe49c1511b.png)
 
-## Contributing
-
-See our guidelines, in [Contributing](https://github.com/mster/domcolor/blob/master/CONTRIBUTING.md).
